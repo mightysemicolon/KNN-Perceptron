@@ -1,4 +1,3 @@
-[Uploading README.md…]()
 # KNN and Perceptron from scratch
 
 Three simple models implemented with NumPy: a k-nearest-neighbors classifier, a k-nearest-neighbors regressor and a perceptron.
